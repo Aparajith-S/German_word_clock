@@ -85,4 +85,3 @@ this reduces the pin requirement from 23 to 17.
 
 ### ToDo : Algorithm to set the time via Serial comms
 
-
