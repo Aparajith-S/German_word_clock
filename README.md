@@ -48,7 +48,7 @@ Housing
 3. Preparing the main controller board.
 4. Packaging the clock.
 5. Coding. 
-5. set the clock using a windows application > link!
+5. set the clock using a windows application > [link](https://github.com/Aparajith-S/Clock-Configurator/releases)
 
 ### Preparing the Display
 The Display is the corner stone of this project. 
